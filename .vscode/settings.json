@@ -14,4 +14,6 @@
   "files.autoSave": "afterDelay",
   // 让函数名后与括号加空格
   "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "editor.fontFamily": "'Courier New',Menlo, Monaco,  monospace",
+  "editor.fontSize": 20,
 }
